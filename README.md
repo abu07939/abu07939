@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hey, I'm Abu Faizil
 
-<!--
-**abu07939/abu07939** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 3rd-year engineering student who loves turning ideas into code.  
+Currently grinding **DSA + Projects** to break into tech 🚀
 
-Here are some ideas to get you started:
+🧠 Learning every day  
+⚙️ Building projects from scratch  
+🎯 Dream: crack a top tech company  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+Java | Python | DSA | HTML | CSS | JavaScript | Git  
+
+### 📌 Current Focus
+- LeetCode consistency  
+- Strong fundamentals  
+- Resume-worthy projects  
+
